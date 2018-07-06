@@ -1,0 +1,16 @@
+PODS:
+  - NicooSwiftRouter (0.1.0)
+
+DEPENDENCIES:
+  - NicooSwiftRouter (from `../`)
+
+EXTERNAL SOURCES:
+  NicooSwiftRouter:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  NicooSwiftRouter: 06b29fbb617fb75bcb549aa3af21d0c832277460
+
+PODFILE CHECKSUM: 9c913418b2df89688d15df6f804b13333e08ec73
+
+COCOAPODS: 1.5.0
