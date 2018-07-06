@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'NicooSwiftRouter_Example' do
+  pod 'NicooSwiftRouter', :path => '../'
+
+  target 'NicooSwiftRouter_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
