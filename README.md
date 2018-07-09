@@ -10,6 +10,13 @@
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
 
 ## Requirements
+/*************************************************************************************************/
+基于Swift4.1的路由组件，参考casaOC版本，没有直接在组件内添加Demo，需要看Demo的可以到：
+
+ https://github.com/yangxina/NicooSwiftRouterDemo 
+
+去下载，这个是直接用NicooSwiftRouter来完成两个测试组件之间的通讯，解耦的。比直接在路由组件内写Demo更为直观.
+/*************************************************************************************************/
 
 ## Installation
 
@@ -19,6 +26,8 @@ it, simply add the following line to your Podfile:
 ```ruby
 pod 'NicooSwiftRouter'
 ```
+
+
 
 ## Author
 
